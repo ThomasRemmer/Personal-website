@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  border: 2px red solid;
+  align-items: center;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
