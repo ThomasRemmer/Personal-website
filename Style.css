@@ -13,7 +13,6 @@ body {
 nav {
   display: flex;
   justify-content: space-around;
-  border: 2px red solid;
   align-items: center;
   color: #ffffff;
   width: 100%;
@@ -37,6 +36,7 @@ nav {
 .main-content-1 {
   display: flex;
   justify-content: space-around;
+  margin-bottom: 10px;
 }
 
 p {
@@ -132,4 +132,8 @@ footer {
 
 main {
   margin: 2vw;
+}
+
+li {
+  color: white;
 }
