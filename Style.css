@@ -87,3 +87,49 @@ footer {
 .footer-btn {
   background-color: #3c3a3a;
 }
+
+.Carousel_Container {
+  display: flex;
+  overflow: hidden;
+  width: 60%;
+  margin: 0 auto;
+  flex-direction: column;
+  margin: 10px;
+}
+.Carousel_Slide {
+  flex: 0 0 auto;
+  background-color: #3c3a3a;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.Btn_Container {
+  width: auto;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  margin: 10px auto;
+}
+.Content {
+  width: auto;
+  background-color: #3c3a3a;
+  display: flex;
+  flex-direction: column;
+}
+
+.Carousel-text {
+  background-color: #3c3a3a;
+}
+
+.Carousel-title {
+  background-color: #3c3a3a;
+  color: white;
+}
+
+.alt-color-content {
+  background-color: #3c3a3a;
+}
+
+main {
+  margin: 2vw;
+}
